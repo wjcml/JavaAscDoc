@@ -1,0 +1,9 @@
+# build artifacts
+vendor/
+.bundle/
+Gemfile.lock
+Java工程师之路.html
+Java工程师之路.pdf
+*_build.sh
+# /images/
+fonts.tar.gz
