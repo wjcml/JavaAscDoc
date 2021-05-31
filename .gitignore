@@ -2,8 +2,15 @@
 vendor/
 .bundle/
 Gemfile.lock
+
+
+# 生成的file
 Java工程师之路.html
 Java工程师之路.pdf
+Java基础.html
+
+
+
 *_build.sh
 # /images/
 fonts.tar.gz
