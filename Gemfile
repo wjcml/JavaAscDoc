@@ -9,4 +9,3 @@ gem 'ttfunk'
 gem 'prawn-icon'
 gem 'asciidoctor-diagram'
 gem 'pygments.rb'
-
